@@ -63,3 +63,5 @@
 5c(CountryCapitalDemo) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/5C1.png?raw=true
 
 5d(ColorTabbedPaneDemo) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/5D1.png?raw=true
+
+6a(FactorialServlet) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/6A1.png?raw=true

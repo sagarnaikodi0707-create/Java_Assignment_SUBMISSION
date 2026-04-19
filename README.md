@@ -24,5 +24,6 @@
 
 1c5.(SwapElements):   https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/1c(5).png?raw=true
 
+2a.(StringOperationsDemo):  https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/2A.png?raw=true
 
 

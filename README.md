@@ -75,3 +75,6 @@
 7b() : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/7B2.png?raw=true
 
 8a(CookieServlet) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/8A2.png?raw=true
+
+8b(CookieServlet) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/8B2.png?raw=true
+

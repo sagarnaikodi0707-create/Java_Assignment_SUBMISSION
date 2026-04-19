@@ -62,34 +62,66 @@
 
 4c(ImageButtonDemo) : 
 
-5a(CountryListDemo) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/5A2.png?raw=true
+5a(CountryListDemo) :
+  OUTPUT 1 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/5A1.png?raw=true
+  OUTPUT 2 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/5A2.png?raw=true
+   
 
-5b(TabbedPaneDemo): https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/5B2.png?raw=true
-
+5b(TabbedPaneDemo):
+  OUTPUT 1 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/5B1.png?raw=true
+  OUTPUT 2 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/5B2.png?raw=true
+  
 5c(CountryCapitalDemo) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/5C1.png?raw=true
 
 5d(ColorTabbedPaneDemo) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/5D1.png?raw=true
 
-6a(FactorialServlet) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/6A1.png?raw=true
+6a(FactorialServlet) : 
+  OUTPUT 1 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/6B1.png?raw=true
+  OUTPUT 2 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/6B1.png?raw=true
 
-6b(CookieServlet) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/6B2.png?raw=true
+6b(CookieServlet) : 
+  OUTPUT 1 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/6B1.png?raw=true
+  OUTPUT 2 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/6B2.png?raw=true
 
-6c(PrimeServlet) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/6C2.png?raw=true
+6c(PrimeServlet) : 
+  OUTPUT 1 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/6C1.png?raw=true
+  OUTPUT 2 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/6C2.png?raw=true
 
-7a() : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/7A1.png?raw=true
+7a(JSP) :
+  OUTPUT 1 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/7A1.png?raw=true
+  OUTPUT 2 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/7A2.png?raw=true
+  OUTPUT 3 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/7A3.png?raw=true
+  
+7b(JSP) :
+  OUTPUT 1 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/7B1.png?raw=true
+  OUTPUT 2 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/7B2.png?raw=true
 
-7b() : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/7B2.png?raw=true
+8a(CookieServlet) :
+  OUTPUT 1 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/8A1.png?raw=true
+  OUTPUT 2 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/8A2.png?raw=true
 
-8a(CookieServlet) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/8A2.png?raw=true
+8b(CookieServlet) : 
+  OUTPUT 1 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/8B1.png?raw=true
+  OUTPUT 2 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/8B2.png?raw=true
 
-8b(CookieServlet) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/8B2.png?raw=true
+9a(SessionServlet): 
+  OUTPUT 1 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/9A1.png?raw=true
+  OUTPUT 2 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/9A2.png?raw=true
 
-9a(SessionServlet): https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/9A2.png?raw=true
+9b() :
+  OUTPUT 1 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/9B1.png?raw=true
+  OUTPUT 2 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/9B2.png?raw=true
+  OUTPUT 3 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/9B3.png?raw=true
+  
+9c() : 
+  OUTPUT 1 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/9C1.png?raw=true
+  OUTPUT 2 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/9C2.png?raw=true
+  OUTPUT 3 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/9C3.png?raw=true
 
-9b() : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/9B2.png?raw=true
+10a(UserDataServlet) :
+  OUTPUT 1 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/10A1.png?raw=true
+  OUTPUT 2 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/10A2.png?raw=true
 
-9c() : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/9C3.png?raw=true
-
-10a(UserDataServlet) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/10A2.png?raw=true
-
-10b(ResultServlet) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/10B2.png?raw=true
+10b(ResultServlet) :
+  OUTPUT 1 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/10B1.png?raw=true
+  OUTPUT 2 : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/10B2.png?raw=true

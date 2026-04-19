@@ -36,6 +36,6 @@
 
 3b3(ReverseStringDemo):  https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3B3.png?raw=true
 
-3b4(RemoveWhitespaceDemo):  
+3b4(RemoveWhitespaceDemo):  https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3B4.png?raw=true
 
 

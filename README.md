@@ -60,3 +60,4 @@
 
 5b(TabbedPaneDemo): https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/5B2.png?raw=true
 
+5c(CountryCapitalDemo) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/5C1.png?raw=true

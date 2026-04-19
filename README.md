@@ -28,4 +28,6 @@
 
 2b.(PerformanceTest): https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/2B.png?raw=true
 
+3a.(StringOperations):  https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3A.png?raw=true
+
 

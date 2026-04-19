@@ -38,4 +38,6 @@
 
 3b4(RemoveWhitespaceDemo):  https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3B4.png?raw=true
 
+3b5(PalindromeCheck) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3B5.png?raw=true
+
 

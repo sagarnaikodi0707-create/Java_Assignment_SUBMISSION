@@ -4,5 +4,6 @@
 
 1b.Array List programs
    1.(ColorSearch)   :  https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/1b(1).png?raw=true
-   2.(RemoveColors)  :  
+   2.(RemoveColors)  :  https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/1b(2).png?raw=true
+   
  

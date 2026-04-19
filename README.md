@@ -14,6 +14,8 @@
 
 1b5.(RemoveNthElement):  https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/1b(5).png?raw=true
 
+1c. Linked List Programs
+
 1c1.(IterateFromSecond):    https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/1c(1).png?raw=true
 
 1c2.(ReverseIteration) ;    https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/1c(2).png?raw=true
@@ -30,6 +32,8 @@
 
 3a.(StringOperations):  https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3A.png?raw=true
 
+3b. String Exercise progams
+
 3b1(NullOrEmptyCheck): https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3B1.png?raw=true
 
 3b2(SubstringCount):  https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3B2.png?raw=true
@@ -39,6 +43,8 @@
 3b4(RemoveWhitespaceDemo):  https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3B4.png?raw=true
 
 3b5(PalindromeCheck) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3B5.png?raw=true
+
+3c. String Exercise progams
 
 3c1(CapitalizeWordsDemo) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3C1.png?raw=true
 

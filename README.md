@@ -20,5 +20,7 @@
 
 1c3.(InsertAtEnd) :  https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/1c(3).png?raw=true
 
+1c4.(DisplayPositions):   https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/1c(4).png?raw=true
+
 
 

@@ -22,5 +22,7 @@
 
 1c4.(DisplayPositions):   https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/1c(4).png?raw=true
 
+1c5.(SwapElements):   https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/1c(5).png?raw=true
+
 
 

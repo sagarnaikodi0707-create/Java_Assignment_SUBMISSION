@@ -32,4 +32,6 @@
 
 3b1(NullOrEmptyCheck): https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3B1.png?raw=true
 
+3b2(SubstringCount):  https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3B2.png?raw=true
+
 

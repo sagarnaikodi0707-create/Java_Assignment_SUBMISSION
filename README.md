@@ -42,4 +42,6 @@
 
 3c1(CapitalizeWordsDemo) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3C1.png?raw=true
 
+3c2(TruncateStringDemo) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3C2.png?raw=true
+
 

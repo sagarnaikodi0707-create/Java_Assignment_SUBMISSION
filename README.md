@@ -40,4 +40,6 @@
 
 3b5(PalindromeCheck) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3B5.png?raw=true
 
+3c1(CapitalizeWordsDemo) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3C1.png?raw=true
+
 

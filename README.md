@@ -68,4 +68,4 @@
 
 6b(CookieServlet) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/6B2.png?raw=true
 
-6c() :
+6c(PrimeServlet) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/6C2.png?raw=true

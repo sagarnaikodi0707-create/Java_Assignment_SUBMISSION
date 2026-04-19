@@ -44,4 +44,8 @@
 
 3c2(TruncateStringDemo) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3C2.png?raw=true
 
+3c3(NumericCheckDemo) : https://github.com/sagarnaikodi0707-create/Java_Assignment_SUBMISSION/blob/main/3C3.png?raw=true
+
+
+
 
